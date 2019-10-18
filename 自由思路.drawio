@@ -1,1 +1,46 @@
-<mxfile host="www.draw.io" modified="2019-10-18T06:16:56.821Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" etag="ehK-PtGXDs1QFnv89JX2" version="12.1.3" type="github" pages="1"><diagram id="antKLneOxoVloimx6mmk" name="第 1 页">7Vldd6M2EP01eowPIITFo8Bm96Ht9jR7TvtKbMWmixGL5djpr++MEF8x3o2beN2zSR5iMZJGo7nD3JEgNN4cPlRpuf5VLWVOPGd5IHRGPM/1HQ4/KHm0ktCd1pJVlS2trBPcZv9IK3SsdJct5XYwUCuV66wcCheqKORCD2RpVan9cNi9yoerlulKHgluF2l+LP0zW+p1LeXetJN/lNlq3azsBmHdc5cuvqwqtSvsesSjSZJ4cVx3b9JGl93odp0u1b4nonNC40opXbc2h1jm6NzGbfW85ERva3clC/2cCey3nP2VpJ/k+u+v+ePu4XP1R3Dj1Voe0nxn/UHmUyJmJApNwyHcLrTVj43LYCclNnebXCy0qgiNHmSlM3DqL+mdzH9X20xnqoAhd0prtYEBOXZErctileM80EbvzV9Ph8izFc7VqgTpWm9yeHChqXY6zwoZt5HggPBeFfrW2uY2z3WUuX67sKqWsuotmiQ+9yLotvuHpeXhpGPdFi54D6TaSF09wpBmQoNw8wow+7zv4ola0boXSoGVpTaCV63mDkVoWCDPAJWOgOqTiJNQIKhRRET4Dup3QHXZAFSPXxlUfwRUTrhHhEvmAQHzxPQd1PNApeGVQWUjoDISzYjwLKjv6fdcUJl7ZVCDY1C9INfoTHeAZPB1h+RvfHazNU4TMMD1y4NxTdMPrZX5rUMinOGbHwE7J41isBN122FWWL5oMXdiSGNG+Nw0IlwRDABJGBtJTHhC5olpxBSZBbIR1g2McCggqG2EQc/K8nWN9CaW2cA8XE2Q0DRClwhO5tS+QWA22My5YT+BiRIHcyLqwQ5q6Moe0AZ+ZqaRED6lOF/EmGgvthE6GaFosA3yQAj+D0nI0JjG2yZLmOwPg2HL9dYAKT4doiagcUGz/ckICR070LH+5hcMBTYxTgEUA7PzuTHFuED4JgLAubTnwV5MQ5kbGZ9CrGBMGyVRxHqhZCIoTMyewM0muEEvcu6ldhRMrJFodg3qzHh53kUwOLrbUYAZAe1n+F+InqQJ4DrI+OwYJN9xnJ4ujqMF61lgUo4NvdDMDM1b5bS6IM+xy7ljamINQOE+Lg2RDtCgDRQR6QA6dhDDLsHdpgyuPVNnhFFznxAucJMeUuFWV+qLbAitUIXEjWR5/kS0LdNFVqxAwLqnz0issxsP6XO/zrS8BTkutYcjNvIs0OF9bo6K62y5lEDGkWFtufzfku7N2KEn8EZot+XiV+fd6WgxdZIKzkv8J2qwslILud2eQLIXMd1twae6jOpDd1Uo6dPjq3eMZHtb80MKKD5eFYck8ntAMoRNUMuAkUEUsh0C2WdAkzXfEHyec234wudcP0DihtoGU3lb5PSQPae2eUPQjtxB/Fhom8W+fQvRJNJB3fd2YKLB1WFyxzPo94rjnxgkNv2PLOf6F0Np7PL9GQW/LVnvqhdfJrz0uPBalhwfNgK85bAGRLg0qDg+gXhBusEIrO8CzOnj543gp2nG96+eZsY+NDzjiPZ6AXzWSe/thAa7YAkPj903S9PX+zJM5/8C</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-18T06:17:44.025Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" etag="hEMpOhxenS5A-fdh9YYR" version="12.1.3" type="github" pages="1">
+  <diagram id="antKLneOxoVloimx6mmk" name="第 1 页">
+    <mxGraphModel dx="1408" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-2" value="筹码" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="120" y="150" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-3" value="业绩" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="115" y="280" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-4" value="股性" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="115" y="390" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-5" value="形态" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="115" y="510" width="30" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-6" value="&lt;h1 style=&quot;font-size: 14px;&quot;&gt;思路&lt;/h1&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;1.低价潜伏，3点即卖&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;2.主力周、月级别吸筹超过3次&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;3.业绩增长，市盈率低于1&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;4.股性超过30分&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;5.左侧交易，价格偏离5周期较大&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;6.仓位控制，每只每次不超过4000，补仓跌幅需超2%&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;7.资金链期控制在12个月&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="115" y="-150" width="620" height="230" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-7" value="周、月吸筹超过3次" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="320" y="120" width="210" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-8" value="年、季相对低位" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="210" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-9" value="业绩预增、市盈率低于1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="210" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-10" value="股性超30分" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="210" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-11" value="左侧交易" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="570" y="120" width="210" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-12" value="仓位控制&lt;br style=&quot;font-size: 14px;&quot;&gt;每只每次不超过4000&lt;br style=&quot;font-size: 14px;&quot;&gt;补仓条件:跌幅&amp;gt;2%" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="210" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-13" value="资金链期&lt;br style=&quot;font-size: 14px;&quot;&gt;控制在12个月" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=14;labelBorderColor=#FF482B;" parent="1" vertex="1">
+          <mxGeometry x="320" y="520" width="210" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
