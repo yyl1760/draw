@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-18T06:29:02.989Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" etag="n_Mjodkg75aHkbLV8eE4" version="12.1.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-18T06:29:32.581Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" etag="_Y1A9ODTS0bWDll3au4X" version="12.1.3" type="github" pages="1">
   <diagram id="antKLneOxoVloimx6mmk" name="第 1 页">
     <mxGraphModel dx="1408" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="1">
       <root>
@@ -34,10 +34,10 @@
         <mxCell id="5Nl5XFaOehjqlyuvTrR6-11" value="左侧交易" style="shape=process;whiteSpace=wrap;backgroundOutline=1;fontStyle=1;fontSize=18;labelBorderColor=none;fontFamily=Helvetica;labelBackgroundColor=none;textOpacity=90;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="570" y="120" width="210" height="140" as="geometry"/>
         </mxCell>
-        <mxCell id="5Nl5XFaOehjqlyuvTrR6-12" value="仓位控制&#xa;每只每次不超过4000补仓条件:跌幅&amp;gt;2%" style="shape=process;whiteSpace=wrap;backgroundOutline=1;fontStyle=1;fontSize=18;labelBorderColor=none;fontFamily=Helvetica;labelBackgroundColor=none;textOpacity=90;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-12" value="仓位控制&#xa;每只每次不超过4000补仓条件:跌幅大于2%" style="shape=process;whiteSpace=wrap;backgroundOutline=1;fontStyle=1;fontSize=18;labelBorderColor=none;fontFamily=Helvetica;labelBackgroundColor=none;textOpacity=90;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="270" y="440" width="260" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="5Nl5XFaOehjqlyuvTrR6-13" value="资金链期&lt;br style=&quot;font-size: 18px;&quot;&gt;控制在12个月" style="shape=process;whiteSpace=wrap;backgroundOutline=1;fontStyle=1;fontSize=18;labelBorderColor=none;fontFamily=Helvetica;labelBackgroundColor=none;textOpacity=90;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+        <mxCell id="5Nl5XFaOehjqlyuvTrR6-13" value="资金链期&#xa;控制在12个月" style="shape=process;whiteSpace=wrap;backgroundOutline=1;fontStyle=1;fontSize=18;labelBorderColor=none;fontFamily=Helvetica;labelBackgroundColor=none;textOpacity=90;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
           <mxGeometry x="270" y="520" width="260" height="60" as="geometry"/>
         </mxCell>
       </root>
